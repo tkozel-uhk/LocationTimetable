@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationTimetable</string>
+    <string name="btReadAct">Načíst aktivity</string>
+    <string name="inpuLabel">Zadejte lokaci</string>
+</resources>
